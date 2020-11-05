@@ -14,6 +14,10 @@ Big Mountain Resort (BMR), a ski resort located in Montana, recently installed a
 
  2. The option that increases the vertical drop by adding a run to a point 150 feet lower down but requiring the installation of an additional chair lift to bring skiers back up, without additional snow making coverage and adding 2 acres of snow making cover gives the highest revenue increase by $20 million dollars.
 
+## Facilities that Matter
+
+The model suggest that vertical drop is your biggest positive feature. Also the snow making area, total chairs, and fast quads are the following three most import facilities Big Mountain Resort offers to the customer. 
+
 ## Future  Work
 
 For more robust pricing strategy, I suggest we collect data on how visitors responds to a price change. Currently, the conclusion is drawn based on the assumption that the demand for Big Mountain Resort ticket is inelastic.
